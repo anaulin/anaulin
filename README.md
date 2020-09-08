@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a software engineer (surprise!). I'm most experience on the backend side of things (APIs, services micro and otherwise, etc), but I'm capable throughout the web stack.
+I'm a software engineer (surprise!). I'm most experienced on the backend side of things (APIs, services micro and otherwise, etc), but I'm capable throughout the web stack.
 
 I'm into automating all I can so that more time can be spent on the interesting work. I'm also happy to do data integration/munging, migration, operations and other often consider "grungy" work.
 
