@@ -19,7 +19,7 @@ I'm a software engineer (surprise!). I'm most experienced on the backend side of
 
 I'm into automating all I can so that more time can be spent on the interesting work. I'm also happy to do data integration/munging, migration, operations and other often consider "grungy" work.
 
-Available for collaboration and for hire. More details and contact info at my personal website: https://anaulin.org
+Available for collaboration, pro-bono work and for hire. More details and contact info at my personal website: https://anaulin.org
 
 ---
 
